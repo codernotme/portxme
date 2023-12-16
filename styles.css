@@ -69,8 +69,7 @@ h1 {
 header {
 z-index: 99999;
 position: relative;
-
-#logo {
+#logo{
     position: fixed;
     top: 30px;
     left: 0;
@@ -116,7 +115,7 @@ nav {
 
     }
     
-    button {
+    .btton {
         -webkit-appearance: none;
         background: rgba(0,0,0,.3);
         backdrop-filter: blur(5px);
