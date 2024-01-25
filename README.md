@@ -1,4 +1,4 @@
-# PortXme - Your Personal Portfolio Website
+# PortXme
 
 **Welcome to PortXme, Your Unique Portfolio Experience**
 
